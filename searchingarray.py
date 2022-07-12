@@ -1,3 +1,7 @@
+#from array import *        # a = array('i',[10,20,30,40,50,60,70])
+#import array as arr        # a = arr.array('i',[10,20,30,40])
+#import array               # a = array.array('i',[10,20,30,40])
+
 import array as arr
 
 a = arr.array('i',[])
