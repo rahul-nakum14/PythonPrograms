@@ -5,7 +5,7 @@ user_input = int(input("Enter size of array"))
 
 for i in range (user_input):
     value = int(input("Enter Value"))
-    a.insert(i,value)
+    a.insert(i,value)  #a.append(value)
     
 search = int(input("Enter value to search"))
 
